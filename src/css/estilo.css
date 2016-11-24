@@ -1,0 +1,33 @@
+body{
+	background-image: url(../imagenes/fondo.jpg)
+}
+#body2{
+	
+	background-image:url(../imagenes/fondo.jpg)
+	
+}
+
+#observ{
+	
+	color: #04589d;
+	text-align: center;
+}
+
+}
+.datos{
+	color: green;
+	font-size: 15px;
+	font-family: algerian;
+}
+
+#centro{
+	
+	
+  height: 110px;
+
+  
+  justify-content: center;
+  align-items: center;
+ 
+}
+

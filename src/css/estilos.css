@@ -1,0 +1,20 @@
+#parrafo1{
+font-weight: bold;
+font-size:14px;
+color: blue;
+font-family: Arial;
+
+text-transform: uppercase;
+
+}
+body{	
+	background-color: green;	
+}
+.datosForm{	
+	color: white;
+	font-size: 14px;
+	font-family: verdana;
+}
+.center{	
+	text-align: center;
+}
